@@ -7,6 +7,6 @@ Ways to contact me :)
 
 Discord: iAldo80#4852
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAldo85&layout=compact)](https://github.com/iAldo85/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![iAldo85 GitHub stats](https://github-readme-stats.vercel.app/api?username=iAldo85)](https://github.com/iAldo85/github-readme-stats)
