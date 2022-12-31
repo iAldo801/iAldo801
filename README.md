@@ -1,7 +1,3 @@
-Who am i? My name is Aldo i live in teh US and currently learning to code
-
-
-
 
 Ways to contact me :)
 
