@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm iAldo80</h1>
+<h1 align="center">Hi 👋, I'm Aldo</h1>
 <h3 align="center">I’m a 16 year old frontend web dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ialdo801&label=Profile%20views&color=0e75b6&style=flat" alt="ialdo801" /> </p>
