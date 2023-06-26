@@ -79,4 +79,3 @@ Languages and Tools:
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ialdo801&show_icons=true&locale=en" alt="ialdo801" />
 </p>
-](url)
