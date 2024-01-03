@@ -13,10 +13,6 @@ I’m a 16 year old frontend web developer.
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ialdo801" alt="ialdo801"/></a> 
 </p>
 
-- 🌱 I’m currently learning **JS, and Java**
-
-- 👨‍💻 My portfolio is available at [https://ialdo80.me](https://ialdo80.me)
-
 <h3 align="left">
 Connect with me:
 </h3>
