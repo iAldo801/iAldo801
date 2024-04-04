@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aldo</h1>
-<h3 align="center">A 16 year old passionate about Web Development 💫🤩</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ialdo801&label=Profile%20views&color=0e75b6&style=flat" alt="ialdo801" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ialdo801" alt="ialdo801" /></a> </p>
